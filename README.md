@@ -7,4 +7,4 @@ I’m all about **fullstack development** and love building projects that are bo
 I'm always curious and up for learning new things to keep up with how the world is evolving. 🌐  
 
 🔗 **Let's connect:**  
-- LinkedIn: [Lucas Martínez](https://www.linkedin.com/in/lucasmaragu)  
+- LinkedIn: [Lucas Martínez](https://www.linkedin.com/in/lucasmartinezaguilera)  
