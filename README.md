@@ -13,12 +13,14 @@
 <h2 align="center">🧰 Lenguajes y Herramientas</h2>
 
 <p align="center">
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+  
   <img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
   <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Laravel" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" />
-  <img alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+  
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </p>
