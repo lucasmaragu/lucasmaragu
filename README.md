@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  💻 Aquí encontrarás proyectos que reflejan mi viaje como desarrollador, ¡desde puzzles lógicos hasta aplicaciones web!<br>
-  Siempre estoy curioso y dispuesto a aprender cosas nuevas para mantenerme al día con la evolución del mundo. 🌐
+  💻 Aquí encontrarás proyectos que reflejan mi viaje como desarrollador<br>
+  Siempre estoy dispuesto a aprender cosas nuevas para mantenerme al día con la evolución del mundo del desarrollo web. 🌐
 </p>
 
 <h2 align="center">🧰 Lenguajes y Herramientas</h2>
