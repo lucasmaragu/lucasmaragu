@@ -22,11 +22,10 @@ I'm always curious and up for learning new things to keep up with how the world 
 #
 
 🔗 **Let's connect:**  
-### 🦜 Let's connect
 
-  <a href="mailto:lucasmaragu@gmail" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <a href="mailto:lucasmaragu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
   <a href="[https://nl.linkedin.com/in/alessandro-degenkamp-390a231b5](https://www.linkedin.com/in/lucasmartinezaguilera)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
