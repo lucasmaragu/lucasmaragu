@@ -1,37 +1,19 @@
-<h1 align="center">👋 ¡Hola! Bienvenido a mi GitHub</h1>
+# 💫 About Me:
+🔭 I’m currently working on fullstack development projects using React or Vue, Laravel, PostgreSQL, and Docker.<br><br>👯 I’m looking to collaborate on web development projects that involve modern and scalable technologies.<br><br>🤝 I’m looking for help with optimizing backend performance and improving database efficiency.<br><br>🌱 I’m currently learning OAuth authentication, advanced PostgreSQL queries, and API development.<br><br>💬 Ask me about web development, databases, and project structuring.<br><br>⚡ Fun fact: I started exploring logic gates in Minecraft using Redstone before diving into programming!
 
-<p align="center">
-  Soy <strong>Lucas Martínez Aguilera</strong>, un desarrollador web en progreso 🚀, actualmente estudiando <strong>DAW</strong>.<br>
-  Me apasiona el <strong>desarrollo fullstack</strong> y me encanta construir proyectos que sean <strong>prácticos</strong> y <strong>divertidos</strong>.
-</p>
 
-<p align="center">
-  💻 Aquí encontrarás proyectos que reflejan mi viaje como desarrollador<br>
-  Siempre estoy dispuesto a aprender cosas nuevas para mantenerme al día con la evolución del mundo del desarrollo web. 🌐
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasmartinezaguilera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasmaragu@gmail.com) 
 
-<h2 align="center">🧰 Lenguajes y Herramientas</h2>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucasmaragu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasmaragu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaragu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
-  
-  <img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img alt="Laravel" width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" />
-  
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-</p>
 
-<h2 align="center">🔗 Conectemos</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=lucasmaragu&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="mailto:lucasmaragu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasmartinezaguilera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
